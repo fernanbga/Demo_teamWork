@@ -1,10 +1,9 @@
 :root {
-    :root {
     --primary-color: green;
     --secondary-color: lightblue;
     --font-main: Arial, Helvetica, sans-serif;;
 }
-}
+
 
 body {
     background: lightblue;
